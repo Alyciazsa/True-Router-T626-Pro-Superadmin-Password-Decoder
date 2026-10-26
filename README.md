@@ -18,7 +18,7 @@ In Thailand, TrueOnline provisions each **T626 Pro** router with a unique, rando
 - **TR-069 ACS Settings**
 - **SIP / VoIP Line Configuration**
 
-Downloading the backup configuration file (`romfile.cfg`) via the Web GUI (`Maintenance -> Backup & Restore`) yields an obfuscated binary file. This tool reverses the proprietary obfuscation offline in milliseconds to reveal your cleartext login credentials.
+Downloading the backup configuration file (`romfile.cfg`) via the Web GUI (`Admin -> Backup/Restore`) yields an obfuscated binary file. This tool reverses the proprietary obfuscation offline in milliseconds to reveal your cleartext login credentials.
 
 <p align="center">
   <img src="routerpageexample.png" alt="Router Web Interface Example" width="750"/>
