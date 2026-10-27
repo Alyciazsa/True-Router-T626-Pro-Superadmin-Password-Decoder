@@ -31,7 +31,7 @@ Downloading the backup configuration file (`romfile.cfg`) via the Web GUI (`Admi
 ### Method 1: Windows Drag & Drop (Easiest)
 
 
-<video src="https://github.com/user-attachments/assets/70e3203a-9aaf-4dee-a6a2-ae90b473c59c"></video>
+https://github.com/user-attachments/assets/70e3203a-9aaf-4dee-a6a2-ae90b473c59c
 
 
 1. Download or copy [`Superadmin.bat`](Superadmin.bat).
