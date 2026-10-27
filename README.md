@@ -5,7 +5,7 @@ Offline decoder and credential extractor for **TrueOnline / Skyworth True Fiber 
 Extracts the router's dynamic **`superadmin`** and **`admin`** passwords without needing UART serial soldering, root access, or sending your backup file to third parties.
 
 <p align="center">
-  <img src="Router%20FW.png" alt="True Router T626 Pro Device & Firmware Information" width="750"/>
+  <img src="Router%20FW.png" alt="True Router T626 Pro Device & Firmware Information" width="550"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@ In Thailand, TrueOnline provisions each **T626 Pro** router with a unique, rando
 Downloading the backup configuration file (`romfile.cfg`) via the Web GUI (`Admin -> Backup/Restore`) yields an obfuscated binary file. This tool reverses the proprietary obfuscation offline in milliseconds to reveal your cleartext login credentials.
 
 <p align="center">
-  <img src="routerpageexample.png" alt="Router Web Interface Example" width="750"/>
+  <img src="routerpageexample.png" alt="Router Web Interface Example" width="550"/>
 </p>
 
 ---
@@ -29,6 +29,11 @@ Downloading the backup configuration file (`romfile.cfg`) via the Web GUI (`Admi
 ## 🚀 Quick Start
 
 ### Method 1: Windows Drag & Drop (Easiest)
+
+
+<video src="https://github.com/user-attachments/assets/70e3203a-9aaf-4dee-a6a2-ae90b473c59c"></video>
+
+
 1. Download or copy [`Superadmin.bat`](Superadmin.bat).
 2. Download Backup file `romfile.cfg` from your router web interface tab Admin - Backup/Restore (`http://192.168.1.1`).
 3. **Drag and drop** `romfile.cfg` directly onto `Superadmin.bat`.
@@ -63,7 +68,7 @@ python decode_t626pro.py romfile.cfg -o romfile_decrypted.xml
 ## 🖥️ Example Output
 
 <p align="center">
-  <img src="example.png" alt="Password Extractor Execution Example" width="750"/>
+  <img src="example.png" alt="Password Extractor Execution Example" width="550"/>
 </p>
 
 ```text
