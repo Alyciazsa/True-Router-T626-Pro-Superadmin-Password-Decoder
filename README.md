@@ -4,6 +4,8 @@
 
 (T626 Pro V2 should also work. but I don't have a router to try with)
 
+or you can use website version on this https://t3unlock.alyciax.top
+
 Offline decoder and credential extractor for **TrueOnline / Skyworth True Fiber T626 Pro** Wi-Fi 6 GPON ONT router configuration backups (`romfile.cfg`).
 
 Extracts the router's dynamic **`superadmin`** and **`admin`** passwords without needing UART serial soldering, root access, or sending your backup file to third parties.
