@@ -1,4 +1,8 @@
-# True Router T626 Pro Superadmin Password Decoder
+# True Router T626 Pro & T625 Pro Superadmin Password Decoder
+
+(T625 Pro is Experimental because I don't have a router to try with)
+
+(T626 Pro V2 should also work. but I don't have a router to try with)
 
 Offline decoder and credential extractor for **TrueOnline / Skyworth True Fiber T626 Pro** Wi-Fi 6 GPON ONT router configuration backups (`romfile.cfg`).
 
