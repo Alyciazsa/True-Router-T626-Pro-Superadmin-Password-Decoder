@@ -5,6 +5,7 @@
 [![PowerShell 5.1/7+](https://img.shields.io/badge/PowerShell-5.1%20%7C%207+-blue.svg)](https://github.com/PowerShell/PowerShell)
 [![Web Tool](https://img.shields.io/badge/Web%20App-t3unlock.alyciax.top-orange.svg)](https://t3unlock.alyciax.top)
 [![100% Offline](https://img.shields.io/badge/Security-100%25%20Offline-success.svg)](SECURITY.md)
+[![Built with Google Antigravity](https://img.shields.io/badge/Built%20with-Google%20Antigravity-4285F4.svg)](https://antigravity.google)
 
 Offline decoder, credential extractor, and privilege unlocker for Wi-Fi 6 GPON ONT routers:
 - **T626 Pro & T626 Pro V2** (`romfile.cfg`)
@@ -352,6 +353,8 @@ unlocked_data = header + encrypted_payload
    - Router configuration research and test files across various router revisions.
 3. **Community Contributors**
    - Everyone testing and reporting hardware revisions.
+4. **[Google Antigravity](https://antigravity.google)**
+   - Built with AI-assisted development using Google Antigravity (human-directed architecture, testing, and verification).
 
 ---
 
